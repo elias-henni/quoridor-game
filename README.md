@@ -32,7 +32,7 @@ git clone https://github.com/elias-henni/quoridor-game.git
 1. Open your web browser and go to [https://gluonhq.com/products/javafx/](https://gluonhq.com/products/javafx/).
 2. Download the JavaFX SDK by selecting the following options:
 - OS: Choose your preferred operating system.
-- Version: Select **17.0.7**.
+- Version: Select **17.0.10**.
 - Architecture: Choose the appropriate architecture for your system.
 - Type: Select **SDK**.
 3. Once the download is complete, locate the downloaded JavaFX SDK file and unzip it.
@@ -44,7 +44,7 @@ git clone https://github.com/elias-henni/quoridor-game.git
 2. Navigate to the folder where you stored the game and JavaFX SDK using the `cd` command.
 3. Run the following command to start the Quoridor game:
 ```
-java --module-path ./javafx-sdk-17.0.7/lib --add-modules javafx.controls,javafx.fxml -jar quoridor-game/quoridor-game.jar
+java --module-path ./javafx-sdk-17.0.10/lib --add-modules javafx.controls,javafx.fxml -jar quoridor-game/quoridor-game.jar
 ```
 
 
