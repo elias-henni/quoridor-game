@@ -47,7 +47,7 @@ git clone https://github.com/elias-henni/quoridor-game.git
 java --module-path ./javafx-sdk-17.0.10/lib --add-modules javafx.controls,javafx.fxml -jar quoridor-game/quoridor-game.jar
 ```
 - If you downloaded a different version of the javafx sdk then you will need to match the version number that you downloaded in the command above
-- For example: ```java --module-path ./javafx-sdk-**17.0.11**/lib --add-modules javafx.controls,javafx.fxml -jar quoridor-game/quoridor-game.jar```
+- For example using 17.0.11: ```java --module-path ./javafx-sdk-17.0.11/lib --add-modules javafx.controls,javafx.fxml -jar quoridor-game/quoridor-game.jar```
 
 
 This command will launch the game and allow you to start playing.
