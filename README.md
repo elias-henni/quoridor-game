@@ -56,3 +56,8 @@ You have successfully set up and launched the Quoridor game! Enjoy playing and h
 
 This game is from a first year college project so it is possible that there are some bugs.
 
+## Contributers
+- Elias Henni
+- Esteban Verschueren
+- Kevin Degan
+
