@@ -54,5 +54,5 @@ This command will launch the game and allow you to start playing.
 
 You have successfully set up and launched the Quoridor game! Enjoy playing and have fun!
 
-If you encounter any issues or have any questions, please feel free to reach out to us.
+This game is from a first year college project so it is possible that there are some bugs.
 
