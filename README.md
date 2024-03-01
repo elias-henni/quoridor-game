@@ -25,7 +25,7 @@ To set up and run the Quoridor game, please follow these steps:
 3. Run the following command to clone the Quoridor repository into the folder:
 
 ```
-git clone <repository_url>
+git clone https://github.com/elias-henni/quoridor-game.git
 ```
 ### Step 3: Download JavaFX SDK
 
